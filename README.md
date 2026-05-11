@@ -42,6 +42,8 @@ The challenge is determining which of these factors most strongly influence trea
 ## Dataset
 ### Source
 Open Sourcing Mental Illness (OSMI) Mental Health in Tech Survey
+The dataset is directly accessed from Kaggle in the Notebook. 
+The dataset has been provided in the repository for manual overview.
 
 ### Dataset Details
 - 1,259 observations
